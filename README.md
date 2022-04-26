@@ -1,7 +1,7 @@
 # PacMen
 
 ## Description
-PacMen is a website were you can play with pacmens bouncing with the borders of the screen. 
+PacMen is a website where you can play with the pacmens bouncing all around the screen. There are two buttons at the top. One to add pacmens to the screen and the other to make them move.
 
 ## Usage 
 You can click on [pac-men](https://christopher4040.github.io/pac-men/) to look at the website. 
